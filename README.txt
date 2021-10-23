@@ -1,6 +1,6 @@
 # Snake-Game
 
-This is a Snake Game made using :
+This is a Snake Game made using the Following Modules:
 1)Tkinter
 2)Random
 3)Time
