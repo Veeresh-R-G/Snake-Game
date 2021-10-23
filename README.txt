@@ -8,7 +8,7 @@ This is a Snake Game made using the Following Modules:
 
 This is a GUI-Based Interactive snake GAME !!!
 
-########################################   SUGGESTIIONS ARE WELCOMED !   ################################################
+########################################   SUGGESTIONS ARE WELCOMED !   ################################################
 
 
 
